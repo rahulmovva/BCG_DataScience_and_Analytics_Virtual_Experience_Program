@@ -10,7 +10,7 @@ Moreover, for those customers that are at risk of churning, a discount might inc
 ## Task 1: Business understanding and Hypothesis Framing
 Your first task is to understand what is going on with the client and think about how you would approach this problem and test the specific hypothesis.
 
-You must formulate the hypothesis as a data science problem and lay out the major steps needed to test this hypothesis, focusing on the data you would need from the client as well as the analytical models you would use to test the hypothesis.
+You formulate the hypothesis as a data science problem and lay out the major steps needed to test this hypothesis, focusing on the data you would need from the client as well as the analytical models you would use to test the hypothesis.
 
 ## Task 2: Exploratory Data Analysis
 The BCG project team thinks that building a churn model to understand whether price sensitivity is the largest driver of churn has potential. The client has sent over some data which includes:
@@ -19,7 +19,7 @@ The BCG project team thinks that building a churn model to understand whether pr
 - Historical pricing data: fixed and variable pricing data
 - Churn indicator: whether or not each customer has churned
 
-For the following task , you need to:
+For the following task , we need to:
 
 - Perform some exploratory data analysis. Look into data types, data statistics, specific parameters, and variable distributions
 - Verify the hypothesis of price sensitivity being correlated with churn
@@ -32,14 +32,14 @@ Feature engineering is one of the keys to unlocking predictive insight through m
 
 For this task :
 
-- Try to think of ways to improve the feature’s predictive power and elaborate on why you made those choices
-- Train a random forest classifier, evaluate the results, and document the advantages and disadvantages of using a random forest for this particular use case
+- We try to think of ways to improve the feature’s predictive power and support our decisions
+- Then we train a random forest classifier, evaluate the results, and document the advantages and disadvantages of using a random forest for this particular use case
 
 ## Task 4: Findings and Executive Summary
 The client wants a quick update on the progress of the project.
 
-A few things to think about for this abstract include:
+A few things to discuss about for this abstract are:
 
-- What is the most important number or metric to share with the client?
-- How much detail should you go into, especially with the technical details of your work?
+- What is the most important number or metric that we share with the client?
+- How much detail should we go into, especially with the technical details of the work?
 - What impact would the model have on the client’s bottom line? 
